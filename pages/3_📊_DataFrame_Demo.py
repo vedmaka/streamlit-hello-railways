@@ -64,7 +64,7 @@ def data_frame_demo():
         )
 
 st.set_page_config(page_title="DataFrame Demo", page_icon="📊")
-st.markdown("# DataFrame Demo")
+st.markdown("# DataFrame Demo 123123")
 st.sidebar.header("DataFrame Demo")
 st.write(
     """This demo shows how to use `st.write` to visualize Pandas DataFrames.
